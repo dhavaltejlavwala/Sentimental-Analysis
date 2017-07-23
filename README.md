@@ -7,9 +7,13 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 Download the dataset and unzip it to the local directory. Enter the aclImdb/ directory created by the zip file, you will find five items 
 
 train/ - feature files and raw text files for the training set 
+
 test/ - feature files and raw text files for the testing set 
+
 imdb.vocab - expected rating for each token 
+
 imdbEr.txt - text tokens for each feature index 
+
 README - the readme file for more information on the dataset 
 
 train/labeledBow.feat feature vector file for the training set 
