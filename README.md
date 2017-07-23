@@ -1,6 +1,6 @@
-# Sentimental-Analysis
+# Sentimental-Analysis on IMDB Movie Reviews
 
-This program to perform sentiment classification for movie reviews. I have used a large movie review dataset containing a set of 25,000 movie reviews for training, and 25,000 for testing. You can visit the following website for more information about the dataset and the downloading link to the zip file. 
+This program to perform sentiment classification for movie reviews using python language.  I have used a large movie review dataset containing a set of 25,000 movie reviews for training, and 25,000 for testing. You can visit the following website for more information about the dataset and the downloading link to the zip file. 
 
 http://ai.stanford.edu/~amaas/data/sentiment/ 
 
